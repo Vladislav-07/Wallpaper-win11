@@ -47,7 +47,7 @@ h1 {
 }
 
 .wallpaper1 {
-  background-image: url(../img/win11/win11-1.jpg);
+  background-image: url(win11-1.jpg);
   background-position-x: -90px ;
   background-size: 979px;
   background-repeat: no-repeat;
@@ -55,7 +55,7 @@ h1 {
 }
 
 .wallpaper2 {
-  background-image:  url(../img/win11/win11-2.jpeg);
+  background-image:  url(win11-2.jpeg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 805px;
@@ -63,7 +63,7 @@ h1 {
 }
 
 .wallpaper3 {
-  background-image:  url(../img/win11/win11-3.jpg);
+  background-image:  url(win11-3.jpg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
@@ -71,7 +71,7 @@ h1 {
 }
 
 .wallpaper4 {
-  background-image:  url(../img/win11/win11-4.jpeg);
+  background-image:  url(win11-4.jpeg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
@@ -79,7 +79,7 @@ h1 {
 }
 
 .wallpaper5 {
-  background-image:  url(../img/win11/win11-5.jpg);
+  background-image:  url(win11-5.jpg);
   background-repeat: no-repeat;
   background-position-y: 0;
   background-position-x: 0px;
@@ -88,7 +88,7 @@ h1 {
 }
 
 .wallpaper6 {
-  background-image:  url(../img/win11/win11-6.jpg);
+  background-image:  url(win11-6.jpg);
   background-repeat: no-repeat;
   background-position-y: -90px ;
   background-size: 820px;
